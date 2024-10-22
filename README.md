@@ -6,10 +6,6 @@ VitiGo is a patient management app for vitiligo patients. It helps patients to k
 
 - [Getting Started](#getting-started)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Running the App](#running-the-app)
-- [Icons](#icons)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Getting Started
@@ -35,5 +31,5 @@ This project is built with Flutter. Ensure you have Flutter installed on your ma
    ```bash
       flutter run
    ```
-##License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
