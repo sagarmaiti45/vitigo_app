@@ -16,20 +16,20 @@ This project is built with Flutter. Ensure you have Flutter installed on your ma
 
 1. Clone this repository:
    ```bash
-      git clone https://github.com/yourusername/yourproject.git
-      cd yourproject
+   git clone https://github.com/yourusername/yourproject.git
+   cd yourproject
    ```
 2. Install the dependencies:
    ```bash
-      flutter pub get
+   flutter pub get
    ```
 3. To generate app icons, use the following command:
    ```bash
-      dart run flutter_launcher_icons
+   dart run flutter_launcher_icons
    ```
 4. Running the App:
    ```bash
-      flutter run
+   flutter run
    ```
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
