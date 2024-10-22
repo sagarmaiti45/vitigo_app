@@ -1,5 +1,5 @@
 
-# vitogo_1
+# VitiGo - A Flutter App
 
 A new Flutter project.
 
@@ -16,5 +16,3 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-# vitigo_app
-59b036f739834e89e0b62aa5a1f1cab281bb20de
