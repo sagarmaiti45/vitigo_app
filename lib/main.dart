@@ -14,9 +14,11 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Doctor Appointment App',
+      title: 'VitiGo',
       theme: ThemeData(
         primarySwatch: Colors.blue,
+        fontFamily: 'Nunito',
+
       ),
       debugShowCheckedModeBanner: false,
       home: SplashScreen(), // Set the splash screen as the home
