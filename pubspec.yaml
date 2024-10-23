@@ -84,6 +84,7 @@ flutter:
         - asset: fonts/Nunito-Regular.ttf
         - asset: fonts/Nunito-Bold.ttf
         - asset: fonts/Nunito-ExtraBold.ttf
+          weight: 800
         - asset: fonts/Nunito-Light.ttf
         - asset: fonts/Nunito-SemiBold.ttf
 

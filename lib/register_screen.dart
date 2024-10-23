@@ -134,7 +134,7 @@ class _RegisterScreenState extends State<RegisterScreen> {
                   )
                       : Text(
                     'Register',
-                    style: TextStyle(fontSize: 16, color: Colors.white),
+                    style: TextStyle(fontSize: 16, color: Colors.white, fontWeight: FontWeight.bold),
                   ),
                 ),
                 SizedBox(height: 20),

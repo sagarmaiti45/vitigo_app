@@ -75,7 +75,7 @@ class _SplashScreenState extends State<SplashScreen> with SingleTickerProviderSt
               textStyle: TextStyle(
                 color: Colors.white,
                 fontSize: 24,
-                fontWeight: FontWeight.bold,
+                fontWeight: FontWeight.w800,
               ),
               speed: Duration(milliseconds: 150), // Typing speed
               isRepeatingAnimation: false, // Do not repeat animation
