@@ -16,8 +16,8 @@ This project is built with Flutter. Ensure you have Flutter installed on your ma
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/yourproject.git
-   cd yourproject
+   git clone https://github.com/sagarmaiti45/vitigo_app
+   cd vitigo_app
    ```
 2. Install the dependencies:
    ```bash
